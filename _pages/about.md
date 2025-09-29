@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an MS Computer Science student in the Data Security and Privacy Lab (DSPL) at [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Murat Kantarcioglu](https://www.kantarcioglu.net/), and a member of the [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/people/students/mughees-ur-rehman.html).
+I am a MS Computer Science student in the Data Security and Privacy Lab (DSPL) at [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Murat Kantarcioglu](https://www.kantarcioglu.net/), and a member of the [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/people/students/mughees-ur-rehman.html).
 
 
 Prior to this, I completed my BS CS from [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/), where I was part of the [Networks and Systems Group](https://nsg.lums.edu.pk/), working under the supervision of [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/).
