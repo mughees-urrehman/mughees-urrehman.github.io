@@ -52,6 +52,8 @@ Muhammad Abdullah , **Mughees Ur Rehman**, Pavlos Nikolopoulos, Katerina Argyrak
 
 ## Academic Service {#service}
 * [ACM SIGCOMM 2025](https://conferences.sigcomm.org/sigcomm/2025/cf-artifacts/) (Artifacts Evaluation Committee Member)
+* ACM Computing Surveys (CSUR) 2025 (Paper Reviewer)
+
 
 ## Teaching {#teaching}
 * CS 5740: AI Tools for Software Engineering <span style="color:#808080;">(Fall 2024 & 2025, Virginia Tech)</span>
