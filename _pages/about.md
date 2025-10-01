@@ -6,12 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a MS Computer Science student in the Data Security and Privacy Lab (DSPL) at [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Murat Kantarcioglu](https://www.kantarcioglu.net/), and a member of the [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/people/students/mughees-ur-rehman.html).
+I am a MS student in Computer Science at [Virginia Tech](https://cs.vt.edu/), where I work in the Data Security and Privacy Lab (DSPL) advised by [Prof. Murat Kantarcioglu](https://www.kantarcioglu.net/) and am affiliated with [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/people/students/mughees-ur-rehman.html). In Summer 2024, I worked at EPFL in the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/) under the supervision of [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki?lang=en).
 
+Previously, I completed my BS in Computer Science at the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/), where I was member of the [Networks and Systems Group](https://nsg.lums.edu.pk/), working under the supervision of [Prof. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/).
 
-Prior to this, I completed my BS CS from [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/), where I was part of the [Networks and Systems Group](https://nsg.lums.edu.pk/), working under the supervision of [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/).
-
-My research spans AI security, networked systems, and Internet measurements. I focus on the intersection of networking and security, with the goal of enhancing the accuracy and robustness of network intrusion-detection systems.
+My research interest spans AI security, networked systems, and Internet measurements.Currently, I focus on the intersection of networking and security, with the goal of enhancing the accuracy and robustness of network intrusion detection systems. 
 
 <strong style="color: red;">Updates:</strong> I'm on the job market, actively seeking roles starting May 2026.
 <br>
@@ -23,7 +22,6 @@ My research spans AI security, networked systems, and Internet measurements. I f
   <span style="margin-left: 35px;">
     <strong>Virginia Tech</strong>, Blacksburg, Virginia<br>
     MS in Computer Science <span style="color:#808080;">(2024 - Present)</span> <br>
-    Advisor: Murat Kantarcioglu <br>
     CGPA: 4.00/4.00<br>
   </span>
 </div>
@@ -35,7 +33,6 @@ My research spans AI security, networked systems, and Internet measurements. I f
   <span style="margin-left: 35px;">
     <strong>LUMS (Lahore University of Management Sciences)</strong>, Lahore, Pakistan<br>
     BS in Computer Science <span style="color:#808080;">(2020 - 2024)</span> <br>
-    Advisor: Zafar Ayyub Qazi <br>
     CGPA: 3.97/4.00<br>
   </span>
 </div>
@@ -44,13 +41,13 @@ My research spans AI security, networked systems, and Internet measurements. I f
 ## Publications
 <a id="publications"></a>
 * [Edge Caching as Differentiation](https://dl.acm.org/doi/10.1145/3718958.3754350).  
-Muhammad Abdullah, **Mughees Ur Rehman**, Pavlos Nikolopoulos, Katerina Argyraki\
+Muhammad Abdullah , **Mughees Ur Rehman**, Pavlos Nikolopoulos, Katerina Argyraki\
 <strong style="color: red;">ACM SIGCOMM 2025</strong> (acceptance rate: 16%) —
 <strong style="color: green;">
   <img src="https://conferences.sigcomm.org/sigcomm/2025/img/icons/trophy.png"
        alt="trophy"
        style="height:1em;vertical-align:-0.2em;">
-  Best Student Paper Award
+  [Best Student Paper Award](https://conferences.sigcomm.org/sigcomm/2025/program/papers-info/)
 </strong>
 
 ## Academic Service {#service}
