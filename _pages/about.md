@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a MS student in Computer Science at [Virginia Tech](https://cs.vt.edu/), where I work in the Data Security and Privacy Lab (DSPL) advised by [Prof. Murat Kantarcioglu](https://www.kantarcioglu.net/) and am affiliated with [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/people/students/mughees-ur-rehman.html). In Summer 2024, I worked at EPFL in the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/) under the supervision of [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki?lang=en).
+I am a MS student in Computer Science at [Virginia Tech](https://cs.vt.edu/), where I work in the Data Security and Privacy Lab (DSPL) advised by [Prof. Murat Kantarcioglu](https://www.kantarcioglu.net/) and am affiliated with [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/people/students/mughees-ur-rehman.html). In Summer 2024, I worked at [EPFL](https://www.epfl.ch/en/) in the [Network Architecture Lab (NAL)](https://www.epfl.ch/labs/nal/) under the supervision of [Prof. Katerina Argyraki](https://people.epfl.ch/katerina.argyraki?lang=en).
 
 Previously, I completed my BS in Computer Science at the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/), where I was member of the [Networks and Systems Group](https://nsg.lums.edu.pk/), working under the supervision of [Prof. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/).
 
