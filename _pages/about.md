@@ -10,10 +10,10 @@ I am a MS student in Computer Science at [Virginia Tech](https://cs.vt.edu/), wh
 
 Previously, I completed my BS in Computer Science at the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/), where I was member of the [Networks and Systems Group](https://nsg.lums.edu.pk/), working under the supervision of [Prof. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/).
 
-My research interest spans AI security, networked systems, and Internet measurements.Currently, I focus on the intersection of networking and security, with the goal of enhancing the accuracy and robustness of network intrusion detection systems. 
+My research interest spans AI security, networked systems, and Internet measurements. Currently, I focus on the intersection of networking and security, with the goal of enhancing the accuracy and robustness of network intrusion detection systems. 
 
-<strong style="color: red;">Updates:</strong> I'm on the job market, actively seeking roles starting May 2026.
-<br>
+<!-- <strong style="color: red;">Updates:</strong> I'm on the job market, actively seeking roles starting May 2026.
+<br> -->
 
 ## Education
 <a id="education"></a>
