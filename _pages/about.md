@@ -31,7 +31,7 @@ My research interest spans AI security, networked systems, and Internet measurem
 <div style="display: flex; align-items: center;">
   <img src="./../images/logo-lums.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
-    <strong>LUMS (Lahore University of Management Sciences)</strong>, Lahore, Pakistan<br>
+    <strong>Lahore University of Management Sciences (LUMS)</strong>, Lahore, Pakistan<br>
     BS in Computer Science <span style="color:#808080;">(2020 - 2024)</span> <br>
     CGPA: 3.97/4.00<br>
   </span>
