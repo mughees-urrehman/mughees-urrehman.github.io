@@ -51,6 +51,7 @@ Muhammad Abdullah , **Mughees Ur Rehman**, Pavlos Nikolopoulos, Katerina Argyrak
 </strong>
 
 ## Academic Service {#service}
+* * [USENIX Security 2026](https://secartifacts.github.io/usenixsec2026/organizers) (Artifacts Evaluation Committee Member)
 * [ACM SIGCOMM 2025](https://conferences.sigcomm.org/sigcomm/2025/cf-artifacts/) (Artifacts Evaluation Committee Member)
 * ACM Computing Surveys (CSUR) 2025 (Paper Reviewer)
 
@@ -100,7 +101,10 @@ Muhammad Abdullah , **Mughees Ur Rehman**, Pavlos Nikolopoulos, Katerina Argyrak
 ## Awards & Honors
 
 * SIGCOMM 2025 [Best Student Paper Award](https://conferences.sigcomm.org/sigcomm/2025/program/papers-info/) <span style="color:#808080;">(September 2025)</span>
-* Tapia Conference 2025 Scholar held at Dallas, Texas <span style="color:#808080;">(September 2025)</span>
+* Awarded $1,500 CCI Commonwealth Cyber Initiative Grant (2024–2025) to support conference travel and academic
+development, recognized as a Cyber Innovation Scholar.
+* Tapia Conference 2025 Scholar held at Dallas, Texas <span style="color:#808080;"></span>
+* Awarded the LUMS Merit Scholarship, granted to the top 15 students in the batch with the highest academic standing.
 * One of the 80 students selected globally for EPFL's Summer Internship (acceptance rate: 1.3%) <span style="color:#808080;">(Summer 2024)</span>
 * Dean's Honors List Award, LUMS <span style="color:#808080;">(2020 - 2024)</span>
 
