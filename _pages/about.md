@@ -40,23 +40,31 @@ My research interest spans AI security, networked systems, and Internet measurem
 
 ## Publications
 <a id="publications"></a>
-* [Edge Caching as Differentiation](https://dl.acm.org/doi/10.1145/3718958.3754350).  
-Muhammad Abdullah , **Mughees Ur Rehman**, Pavlos Nikolopoulos, Katerina Argyraki\
-<strong style="color: red;">ACM SIGCOMM 2025</strong> (acceptance rate: 16%) —
-<strong style="color: green;">
-  <img src="https://conferences.sigcomm.org/sigcomm/2025/img/icons/trophy.png"
-       alt="trophy"
-       style="height:1em;vertical-align:-0.2em;">
-  [Best Student Paper Award](https://conferences.sigcomm.org/sigcomm/2025/program/papers-info/)
-</strong>
+
+* <a href="https://dl.acm.org/doi/10.1145/3718958.3754350" target="_blank">Edge Caching as Differentiation</a>.  
+  Muhammad Abdullah, **Mughees Ur Rehman**, Pavlos Nikolopoulos, Katerina Argyraki\
+  <strong style="color: red;">ACM SIGCOMM 2025</strong> (acceptance rate: 16%) —
+  <strong style="color: green;">
+    <img src="https://conferences.sigcomm.org/sigcomm/2025/img/icons/trophy.png"
+         alt="trophy"
+         style="height:1em;vertical-align:-0.2em;">
+    <a href="https://conferences.sigcomm.org/sigcomm/2025/program/papers-info/" target="_blank">Best Student Paper Award</a>
+  </strong>
+
+
+* <a href="https://2026.msrconf.org/track/msr-2026-technical-papers" target="_blank">Source Code Hotspots: A Diagnostic Method for Quality Issues</a>.  
+  Saleha Muzammil, **Mughees Ur Rehman**, Zoe Kotti, Diomidis Spinellis\
+  <strong style="color: red;">ACM MSR 2026</strong> (acceptance rate: 21%)
+
 
 ## Academic Service {#service}
-* [USENIX Security 2026](https://secartifacts.github.io/usenixsec2026/organizers) (Artifacts Evaluation Committee Member)
+* <a href="https://www.usenix.org/conference/usenixsecurity26/call-for-papers" target="_blank">USENIX Security 2026</a> (Artifacts Evaluation Committee Member)
 * [ACM SIGCOMM 2025](https://conferences.sigcomm.org/sigcomm/2025/cf-artifacts/) (Artifacts Evaluation Committee Member)
 * ACM Computing Surveys (CSUR) 2025 (Paper Reviewer)
 
 
 ## Teaching {#teaching}
+* CS 2114: Software Design & Data Structures <span style="color:#808080;">(Spring 2026, Virginia Tech)</span>
 * CS 5740: AI Tools for Software Engineering <span style="color:#808080;">(Fall 2024 & 2025, Virginia Tech)</span>
 * CS 3114: Data Structures and Algorithms <span style="color:#808080;">(Spring 2025, Virginia Tech)</span>
 * CS 473 Network Security <span style="color:#808080;">(Spring 2024, LUMS)</span>
