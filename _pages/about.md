@@ -52,7 +52,7 @@ My research interest spans AI security, networked systems, and Internet measurem
   </strong>
 
 
-* <a href="https://2026.msrconf.org/track/msr-2026-technical-papers" target="_blank">Source Code Hotspots: A Diagnostic Method for Quality Issues</a>.  
+* <a href="https://arxiv.org/pdf/2602.13170" target="_blank">Source Code Hotspots: A Diagnostic Method for Quality Issues</a>.  
   Saleha Muzammil, **Mughees Ur Rehman**, Zoe Kotti, Diomidis Spinellis\
   <strong style="color: red;">ACM MSR 2026</strong> (acceptance rate: 21%)
 
