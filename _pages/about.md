@@ -21,7 +21,7 @@ My research interest spans AI security, networked systems, and Internet measurem
   <img src="./../images/logo-vt.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
     <strong>Virginia Tech</strong>, Blacksburg, Virginia<br>
-    MS in Computer Science <span style="color:#808080;">(2024 - Present)</span> <br>
+    MS in Computer Science <span style="color:#808080;">(August, 2024 - May, 2026)</span> <br>
     CGPA: 4.00/4.00<br>
   </span>
 </div>
@@ -32,7 +32,7 @@ My research interest spans AI security, networked systems, and Internet measurem
   <img src="./../images/logo-lums.png" alt="Logo" style="width: 100px; height: auto;">
   <span style="margin-left: 35px;">
     <strong>Lahore University of Management Sciences (LUMS)</strong>, Lahore, Pakistan<br>
-    BS in Computer Science <span style="color:#808080;">(2020 - 2024)</span> <br>
+    BS in Computer Science <span style="color:#808080;">(September, 2020 - May, 2024)</span> <br>
     CGPA: 3.97/4.00<br>
   </span>
 </div>
@@ -58,6 +58,9 @@ My research interest spans AI security, networked systems, and Internet measurem
 
 
 ## Academic Service {#service}
+
+* <a href="https://conferences.sigcomm.org/imc/2026/shadow-tpc/" target="_blank">ACM Internet Measurement Conference (IMC) 2026</a> (Shadow TPC Member)
+* <a href="https://conferences.sigcomm.org/co-next/2026/" target="_blank">ACM CoNEXT 2026</a> (Artifacts Evaluation Committee Member)
 * <a href="https://www.usenix.org/conference/usenixsecurity26/call-for-papers" target="_blank">USENIX Security 2026</a> (Artifacts Evaluation Committee Member)
 * [ACM SIGCOMM 2025](https://conferences.sigcomm.org/sigcomm/2025/cf-artifacts/) (Artifacts Evaluation Committee Member)
 * ACM Computing Surveys (CSUR) 2025 (Paper Reviewer)
